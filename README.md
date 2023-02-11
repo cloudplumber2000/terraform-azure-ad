@@ -1,0 +1,2 @@
+# terraform-azure-ad
+Learning
